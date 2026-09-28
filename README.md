@@ -256,9 +256,8 @@ This is part of my continuous journey of learning in the field of Cloud Security
 
 ## Disclaimer
 
-This project was created for educational and portfolio purposes.
+This project was created for educational and portfolio purposes.The architecture represent my understanding of Azure security and SOC concepts. It is conceptual design and does not represent a complete production.
 
-The architecture represent my understanding of Azure security and SOC concepts. It is conceptual design and does not represent a complete production.
 ---
 
 ## Author
